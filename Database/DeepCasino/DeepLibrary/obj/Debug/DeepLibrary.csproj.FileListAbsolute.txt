@@ -1,0 +1,12 @@
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\bin\Debug\DeepLibrary.dll.config
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\bin\Debug\DeepLibrary.dll
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\bin\Debug\DeepLibrary.pdb
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csproj.CopyComplete
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.dll
+C:\Users\Danny\source\repos\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.pdb

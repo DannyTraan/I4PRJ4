@@ -1,0 +1,12 @@
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\bin\Debug\ApplicationLogic.dll
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\bin\Debug\ApplicationLogic.pdb
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\bin\Debug\DeepLibrary.dll
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\bin\Debug\Infrastructure.dll
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\bin\Debug\DeepLibrary.pdb
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\bin\Debug\DeepLibrary.dll.config
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\bin\Debug\Infrastructure.pdb
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.csproj.CopyComplete
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.dll
+C:\Users\Danny\source\repos\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.pdb
