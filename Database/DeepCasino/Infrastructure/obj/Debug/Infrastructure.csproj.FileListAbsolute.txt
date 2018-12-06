@@ -8,3 +8,13 @@ C:\Users\Danny\source\repos\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll.
 C:\Users\Danny\source\repos\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
 C:\Users\Danny\source\repos\DeepCasino\Infrastructure\obj\Debug\Infrastructure.dll
 C:\Users\Danny\source\repos\DeepCasino\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.pdb
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll.config
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.pdb

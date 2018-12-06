@@ -16,11 +16,11 @@ namespace ApplicationLogic
 
             #region Player
 
-            //Player newPlayer = new Player() { PlayerID = 2, UserName = "DavidLoG", HighScore = "9999", Wallet = "Lan"};
-            //util.AddPlayerDB(ref newPlayer);
+            Player newPlayer = new Player() { PlayerID = 0, UserName = "Danny", HighScore = "13123", Wallet = "Deep" };
+            util.AddPlayerDB(ref newPlayer);
             //util.DeletePlayerDB(ref newPlayer);
             //util.UpdatePlayerDB(ref newPlayer);
-            //Console.WriteLine("***Deleted Player!***");
+            Console.WriteLine("***Player Added!***");
 
             #endregion
 
@@ -46,11 +46,11 @@ namespace ApplicationLogic
 
             #region HighScore
 
-            HighScore newScore = new HighScore() {HighScoreID = 2, PlayerID = 1, Highscore = "4321"};
+            //HighScore newScore = new HighScore() {HighScoreID = 2, PlayerID = 0, Highscore = "4321"};
             //util.AddHighScoreDB(ref newScore);
             //util.UpdateHighScoreDB(ref newScore);
-            util.DeleteHighScoreDB(ref newScore);
-            Console.WriteLine("***Highscore Deleted!***");
+            //util.DeleteHighScoreDB(ref newScore);
+            //Console.WriteLine("***Highscore Added!***");
 
             #endregion
         }
