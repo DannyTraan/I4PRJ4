@@ -12,5 +12,6 @@ namespace DeepLibrary.Library
         public virtual string Wallet { get; set; }
         public virtual string UserName { get; set; }
         public virtual string HighScore { get; set; }
+        public virtual long PID { get; set; }
     }
 }

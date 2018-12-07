@@ -52,6 +52,35 @@ namespace Infrastructure
             }
         }
 
+        public List<Player> GetPlayerDB()
+        {
+            string getStringParam = @"SELECT * FROM Player";
+            Console.WriteLine("PlayerID \t\t HighScore \t\t\t UserName \t\t\t Wallet ");
+            using (var cmd = new SqlCommand(getStringParam, OpenConnection))
+            {
+                SqlDataReader rdr = null;
+                rdr = cmd.ExecuteReader();
+                List<Player> players = new List<Player>();
+                Player pla = null;
+                while (rdr.Read())
+                {
+                    pla = new Player
+                    {
+                        PlayerID = (long) rdr["PlayerID"],
+                        UserName = (string)rdr["UserName"],
+                        HighScore = (string) rdr["HighScore"],
+                        Wallet = (string) rdr["Wallet"]
+                    };
+
+                    Console.WriteLine(String.Format("{0} \t\t\t | {2} | \t\t\t | {1} | \t\t\t | {3} |", rdr[0], rdr[1], rdr[2], rdr[3]));
+
+                    players.Add(pla);
+                }
+
+                return players;
+            }
+        }
+
         public void UpdatePlayerDB(ref Player pla)
         {
             string updateString = @"UPDATE Player

@@ -17,7 +17,6 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\D
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.xml
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csprojAssemblyReference.cache
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csproj.CopyComplete
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.dll
