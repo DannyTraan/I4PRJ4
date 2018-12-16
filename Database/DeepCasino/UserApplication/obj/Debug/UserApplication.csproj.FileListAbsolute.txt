@@ -28,6 +28,23 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\D
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.csproj.CopyComplete
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.exe
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.pdb
+<<<<<<< HEAD
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\UserApplication.exe.config
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\UserApplication.exe
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\UserApplication.pdb
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\ApplicationLogic.dll
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\Infrastructure.dll
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\DeepLibrary.dll
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\ApplicationLogic.pdb
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\Infrastructure.pdb
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\DeepLibrary.pdb
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\bin\Debug\DeepLibrary.dll.config
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.csproj.CopyComplete
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.exe
+C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.pdb
+=======
 C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\UserApplication\bin\Debug\UserApplication.exe.config
 C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\UserApplication\bin\Debug\UserApplication.exe
 C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\UserApplication\bin\Debug\UserApplication.pdb
@@ -43,3 +60,4 @@ C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\UserApplication\obj\D
 C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.csproj.CopyComplete
 C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.exe
 C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\UserApplication\obj\Debug\UserApplication.pdb
+>>>>>>> 88e6ac32030f80c5d338426fd15b1947c974cc1b

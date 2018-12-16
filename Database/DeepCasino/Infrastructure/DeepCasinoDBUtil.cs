@@ -27,7 +27,11 @@ namespace Infrastructure
         {
             get
             {
+<<<<<<< HEAD
+                var con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DBPRJ4;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+=======
                 var con = new SqlConnection(@"Data Source=st-i4dab.uni.au.dk;Initial Catalog=E18I4DABau556770;User ID=E18I4DABau556770;Password=E18I4DABau556770;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+>>>>>>> 88e6ac32030f80c5d338426fd15b1947c974cc1b
 
                 con.Open();
                 return con;
