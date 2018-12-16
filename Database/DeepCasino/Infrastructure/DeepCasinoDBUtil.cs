@@ -27,7 +27,7 @@ namespace Infrastructure
         {
             get
             {
-                var con = new SqlConnection(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=DeepCasinoDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+                var con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DBPRJ4;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
 
                 con.Open();
                 return con;
