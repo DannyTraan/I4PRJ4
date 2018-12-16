@@ -27,7 +27,7 @@ namespace Infrastructure
         {
             get
             {
-                var con = new SqlConnection(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=DeepCasinoDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+                var con = new SqlConnection(@"Data Source=st-i4dab.uni.au.dk;Initial Catalog=E18I4DABau556770;User ID=E18I4DABau556770;Password=E18I4DABau556770;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
 
                 con.Open();
                 return con;
@@ -55,7 +55,7 @@ namespace Infrastructure
         public List<Player> GetPlayerDB()
         {
             string getStringParam = @"SELECT * FROM Player";
-            Console.WriteLine("PlayerID \t\t HighScore \t\t\t UserName \t\t\t Wallet ");
+            Console.WriteLine("PlayerID \t\t HighScore \t\t\t UserName \t\t Wallet ");
             using (var cmd = new SqlCommand(getStringParam, OpenConnection))
             {
                 SqlDataReader rdr = null;
@@ -72,7 +72,7 @@ namespace Infrastructure
                         Wallet = (string) rdr["Wallet"]
                     };
 
-                    Console.WriteLine(String.Format("{0} \t\t\t | {2} | \t\t\t | {1} | \t\t\t | {3} |", rdr[0], rdr[1], rdr[2], rdr[3]));
+                    Console.WriteLine(String.Format("{0} \t\t\t | {2} | \t\t\t | {1} | \t\t\t | {3} DeepCoins|", rdr[0], rdr[1], rdr[2], rdr[3]));
 
                     players.Add(pla);
                 }

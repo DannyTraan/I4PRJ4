@@ -21,3 +21,4 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\D
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csproj.CopyComplete
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.pdb
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csprojAssemblyReference.cache
