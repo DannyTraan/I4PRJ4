@@ -22,6 +22,7 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\D
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.csproj.CopyComplete
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.pdb
+<<<<<<< HEAD
 C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\ApplicationLogic\bin\Debug\ApplicationLogic.dll
 C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\ApplicationLogic\bin\Debug\ApplicationLogic.pdb
 C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\ApplicationLogic\bin\Debug\DeepLibrary.dll
@@ -34,3 +35,17 @@ C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\ApplicationLogic\obj\Debug\App
 C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.csproj.CopyComplete
 C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.dll
 C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.pdb
+=======
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\bin\Debug\ApplicationLogic.dll
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\bin\Debug\ApplicationLogic.pdb
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\bin\Debug\DeepLibrary.dll
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\bin\Debug\Infrastructure.dll
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\bin\Debug\DeepLibrary.pdb
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\bin\Debug\DeepLibrary.dll.config
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\bin\Debug\Infrastructure.pdb
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.csproj.CopyComplete
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.dll
+C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\ApplicationLogic\obj\Debug\ApplicationLogic.pdb
+>>>>>>> 88e6ac32030f80c5d338426fd15b1947c974cc1b
