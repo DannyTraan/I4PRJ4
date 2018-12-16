@@ -16,12 +16,12 @@ namespace ApplicationLogic
 
             #region Player
 
-            Player newPlayer = new Player() { PlayerID = 10002, UserName = "Bekir", HighScore = "100", Wallet = "Dybet" };
-            util.AddPlayerDB(ref newPlayer);
-            util.DeletePlayerDB(ref newPlayer);
-            util.UpdatePlayerDB(ref newPlayer);
+            //Player newPlayer = new Player() { PlayerID = 0, UserName = "Foo", HighScore = "1000", Wallet = "100" };
+            //util.AddPlayerDB(ref newPlayer);
+            //util.DeletePlayerDB(ref newPlayer);
+            //util.UpdatePlayerDB(ref newPlayer);
             util.GetPlayerDB();
-            Console.WriteLine("***Updated Player!***");
+            //Console.WriteLine("***Added Player!***");
 
             #endregion
 

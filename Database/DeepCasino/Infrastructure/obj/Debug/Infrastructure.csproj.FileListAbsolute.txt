@@ -1,13 +1,3 @@
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\bin\Debug\Infrastructure.dll
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\bin\Debug\Infrastructure.pdb
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.pdb
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll.config
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\obj\Debug\Infrastructure.dll
-C:\Users\Danny\source\repos\DeepCasino\Infrastructure\obj\Debug\Infrastructure.pdb
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.pdb
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll
@@ -18,26 +8,3 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\D
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.pdb
-<<<<<<< HEAD
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.dll
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.pdb
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.pdb
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll.config
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.dll
-C:\Users\mehme\Desktop\I4PRJ4\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.pdb
-=======
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.dll
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.pdb
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.pdb
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll.config
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.dll
-C:\Users\Hurtig navn\Desktop\PRJ4_repo\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.pdb
->>>>>>> 88e6ac32030f80c5d338426fd15b1947c974cc1b
