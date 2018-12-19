@@ -1,0 +1,15 @@
+C:\Users\Danny\source\repos\DeepCasino\DeepCasinoDB\bin\Debug\DeepCasinoDB.dacpac
+C:\Users\Danny\source\repos\DeepCasino\DeepCasinoDB\bin\Debug\DeepCasinoDB.dll
+C:\Users\Danny\source\repos\DeepCasino\DeepCasinoDB\bin\Debug\DeepCasinoDB.pdb
+C:\Users\Danny\source\repos\DeepCasino\DeepCasinoDB\obj\Debug\DeepCasinoDB.sqlprojAssemblyReference.cache
+C:\Users\Danny\source\repos\DeepCasino\DeepCasinoDB\obj\Debug\DeepCasinoDB.dll
+C:\Users\Danny\source\repos\DeepCasino\DeepCasinoDB\obj\Debug\DeepCasinoDB.pdb
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\bin\Debug\DeepCasinoDB.dacpac
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\bin\Debug\DeepCasinoDB.dll
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\bin\Debug\DeepCasinoDB.pdb
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\obj\Debug\Model.xml
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\obj\Debug\refactor.xml
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\obj\Debug\postdeploy.sql
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\obj\Debug\predeploy.sql
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\obj\Debug\DeepCasinoDB.dll
+C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepCasinoDB\obj\Debug\DeepCasinoDB.pdb
