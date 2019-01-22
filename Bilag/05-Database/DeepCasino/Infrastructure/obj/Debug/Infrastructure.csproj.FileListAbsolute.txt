@@ -8,3 +8,13 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\D
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.pdb
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\bin\Debug\DeepLibrary.dll.config
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\Infrastructure\obj\Debug\Infrastructure.pdb

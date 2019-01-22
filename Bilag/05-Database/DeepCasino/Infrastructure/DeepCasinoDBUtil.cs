@@ -59,7 +59,7 @@ namespace Infrastructure
         public List<Player> GetPlayerDB()
         {
             string getStringParam = @"SELECT * FROM Player";
-            Console.WriteLine("PlayerID \t\t HighScore \t\t\t UserName \t\t\t Wallet ");
+            Console.WriteLine("PlayerID \t\t UserName \t\t\t HighScore \t\t\t Wallet ");
             using (var cmd = new SqlCommand(getStringParam, OpenConnection))
             {
                 SqlDataReader rdr = null;

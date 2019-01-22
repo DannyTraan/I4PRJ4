@@ -9,3 +9,15 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\D
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csproj.CopyComplete
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4PRJ4\repos\Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.pdb
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\bin\Debug\DeepLibrary.dll.config
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\bin\Debug\DeepLibrary.dll
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\bin\Debug\DeepLibrary.pdb
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csprojAssemblyReference.cache
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.csproj.CopyComplete
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.dll
+C:\Users\Bekir Karaca\Desktop\I4PRJ4\Bilag\05-Database\DeepCasino\DeepLibrary\obj\Debug\DeepLibrary.pdb

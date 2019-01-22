@@ -16,7 +16,7 @@ namespace ApplicationLogic
 
             #region Player
 
-            //Player newPlayer = new Player() { PlayerID = 0, UserName = "Foo", HighScore = "1000", Wallet = "100" };
+            //Player newPlayer = new Player() { PlayerID = 120, UserName = "Samsung", HighScore = "10", Wallet = "100" };
             //util.AddPlayerDB(ref newPlayer);
             //util.DeletePlayerDB(ref newPlayer);
             //util.UpdatePlayerDB(ref newPlayer);
